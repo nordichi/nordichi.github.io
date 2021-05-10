@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hosts
+permalink: /hosts/
 ---
 
 Some information about you!
