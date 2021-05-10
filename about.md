@@ -27,3 +27,9 @@ Web: [joannabergstrom.fi](http://www.joannabergstrom.fi)
 E-mail: [joanna@di.ku.dk](mailto:joanna@di.ku.dk)
 
 Twitter: [@Joanna_BL](https://twitter.com/Joanna_BL)
+
+### Mary Karyda
+
+E-mail: [maria.karyda@aalto.fi](mailto:maria.karyda@aalto.fi)
+
+Twitter: [@karydam1](https://twitter.com/karydam1)
