@@ -14,7 +14,7 @@ Twitter: [@yichiliao](https://twitter.com/yichiliao)
 
 ### Kashyap Todi
 
-Web: (kashyaptodi.com)[https://www.kashyaptodi.com]
+Web: [kashyaptodi.com](https://www.kashyaptodi.com)
 
 E-mail: [kashyap.todi@gmail.com](mailto:kashyap.todi@gmail.com)
 
