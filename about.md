@@ -4,12 +4,10 @@ title: Hosts
 permalink: /hosts/
 ---
 
-Some information about you!
+### Yi-Chi Liao
 
-### More Information
+E-mail: yi-chi.liao@aalto.fi
 
-A place to include any other types of information that you'd like to include about yourself.
+### Kashyap Todi
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
